@@ -1,5 +1,5 @@
 # Quantum Computing with IBM Q and Qiskit
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/quantum-computing-ibm-q-and-qiskit.html)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/quantum-computing-ibm-q-and-qiskit.html)
 
 These are the exercise files used for [Quantum Computing with IBM Q and Qiskit](https://www.tertiarycourses.com.sg/quantum-computing-ibm-q-and-qiskit.html) course. 
 
