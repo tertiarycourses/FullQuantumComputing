@@ -5,9 +5,9 @@ These are the exercise files used for [Quantum Computing with IBM Q and Qiskit](
 
 The course outline can be found in 
 
-https://www.tertiarycourses.com.sg/quantum-computing-ibm-q-and-qiskit.html
+https://www.tertiarycourses.com.sg/full-quantum-computing-for-developers.html
 
-https://www.tertiarycourses.com.my/quantum-computing-ibm-q-and-qiskit-malaysia.html
+https://www.tertiarycourses.com.my/full-quantum-computing-for-developers-malaysia.html
 
 <p><strong>Topic 1: Introduction to Quantum Computing</strong></p>
 <ul>
