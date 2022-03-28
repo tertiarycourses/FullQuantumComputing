@@ -1,7 +1,7 @@
 # Full Quantum Computing for Developers
 ## by [Tertiary Courses](https://www.tertiarycourses.com.sg/quantum-computing-ibm-q-and-qiskit.html)
 
-These are the exercise files used for [Quantum Computing with IBM Q and Qiskit](https://www.tertiarycourses.com.sg/quantum-computing-ibm-q-and-qiskit.html) course. 
+These are the exercise files used for [Full Quantum Computing for Developers](https://www.tertiarycourses.com.sg/full-quantum-computing-for-developers.html) course. 
 
 The course outline can be found in 
 
